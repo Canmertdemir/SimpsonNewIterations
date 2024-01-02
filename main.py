@@ -42,8 +42,7 @@ def f1(x):
 
 a = 0
 b = 1
-m = 30
-n = 30
+
 
 m_values_odds = list(range(1, 31, 2))  # 1'den 30'a kadar tek sayılar
 n_values_odds = list(range(1, 31, 2))  # 1'den 30'a kadar tek sayılar
@@ -105,8 +104,7 @@ def f1(x):
 
 a = 0
 b = 1
-m = 30
-n = 30
+
 
 m_values_odds = list(range(1, 31, 2))  # 1'den 30'a kadar tek sayılar
 n_values_odds = list(range(1, 31, 2))  # 1'den 30'a kadar tek sayılar
@@ -165,8 +163,7 @@ def f1(x):
 
 a = 0
 b = 1
-m = 30
-n = 30
+
 
 m_values_odds = list(range(1, 31, 2))  # 1'den 30'a kadar tek sayılar
 n_values_odds = list(range(1, 31, 2))  # 1'den 30'a kadar tek sayılar
